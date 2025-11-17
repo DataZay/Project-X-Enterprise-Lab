@@ -1,4 +1,3 @@
-```markdown
 # 06 – Security Onion Setup (`project-x-sec-work`)
 
 ## 1. Install Security Onion
