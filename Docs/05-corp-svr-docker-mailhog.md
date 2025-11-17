@@ -1,4 +1,3 @@
-```markdown
 # 05 – Corp Server, Docker & MailHog (`project-x-corp-svr`)
 
 (Combines “STEP 4” + “STEP 5” and ties into MailHog configs & scripts.)
